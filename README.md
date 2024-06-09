@@ -1,4 +1,5 @@
 # FER-multifrequency-so3
+**This repo is DEPRECATED!! A new repo for FER is [here](https://github.com/iMSquared/FER-multifrequency-so3).**
 
 This is an official repo for the paper "AN INTUITIVE MULTI-FREQUENCY FEATURE REPRESENTATION FOR SO(3)-EQUIVARIANT NETWORKS".
 
